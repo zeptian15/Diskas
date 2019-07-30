@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">School</string>
+    <string-array name="siswa">
+        <item>Septian Ricky Maulana</item>
+        <item>Azriel Maulana</item>
+        <item>Muhammad Fariz Fakhruddin</item>
+        <item>Annisa Rahayu</item>
+        <item>Ikhsan Maulana</item>
+        <item>Muhammad Iqbal Mubarok</item>
+        <item>Rashif Malik Ilyasa</item>
+        <item>Fajar Faturrahman</item>
+        <item>Muhammad Ikhwan Attailah</item>
+    </string-array>
+</resources>
